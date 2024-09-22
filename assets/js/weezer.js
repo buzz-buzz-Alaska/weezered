@@ -7,7 +7,7 @@ function weez() {
   if (already_played === false) {
     console.log("now simulating");
     let weezing = new Audio(
-      "http://127.0.0.1:3000/static/ignore/buddyholly.mp3"
+      "https://github.com/buzz-buzz-Alaska/weezered/raw/refs/heads/main/assets/audio/buddyholly.mp3"
     );
     weezing.load();
 
