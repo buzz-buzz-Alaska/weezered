@@ -1,0 +1,17 @@
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.lol {
+  animation-name: fadein;
+  animation-duration: 2s;
+}
+
+.w {
+  opacity: 0;
+  width: 0px;
+}
